@@ -630,14 +630,14 @@
   </url>
   
   <url>
-    <loc>/tags/albania/</loc>
-    <lastmod>2013-08-12T18:03:34+00:00</lastmod>
+    <loc>/categories/albania/</loc>
+    <lastmod>2013-08-15T07:45:07+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/albania/</loc>
-    <lastmod>2013-08-15T07:45:07+00:00</lastmod>
+    <loc>/tags/albania/</loc>
+    <lastmod>2013-08-12T18:03:34+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -654,13 +654,13 @@
   </url>
   
   <url>
-    <loc>/tags/austria/</loc>
+    <loc>/categories/austria/</loc>
     <lastmod>2013-07-31T19:35:35+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/austria/</loc>
+    <loc>/tags/austria/</loc>
     <lastmod>2013-07-31T19:35:35+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -714,14 +714,14 @@
   </url>
   
   <url>
-    <loc>/tags/bosnia-and-herzegovina/</loc>
-    <lastmod>2013-08-06T19:18:22+00:00</lastmod>
+    <loc>/categories/bosnia-and-herzegovina/</loc>
+    <lastmod>2013-08-08T20:32:44+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/bosnia-and-herzegovina/</loc>
-    <lastmod>2013-08-08T20:32:44+00:00</lastmod>
+    <loc>/tags/bosnia-and-herzegovina/</loc>
+    <lastmod>2013-08-06T19:18:22+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -785,13 +785,13 @@
   </url>
   
   <url>
-    <loc>/tags/croatia/</loc>
+    <loc>/categories/croatia/</loc>
     <lastmod>2013-08-04T19:06:38+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/croatia/</loc>
+    <loc>/tags/croatia/</loc>
     <lastmod>2013-08-04T19:06:38+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -803,26 +803,26 @@
   </url>
   
   <url>
-    <loc>/tags/czech-republic/</loc>
-    <lastmod>2013-02-25T16:35:24+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/categories/czech-republic/</loc>
     <lastmod>2013-02-25T16:35:24+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/defender/</loc>
-    <lastmod>2013-07-19T20:33:19+00:00</lastmod>
+    <loc>/tags/czech-republic/</loc>
+    <lastmod>2013-02-25T16:35:24+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/categories/defender/</loc>
     <lastmod>2013-08-15T07:45:07+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/defender/</loc>
+    <lastmod>2013-07-19T20:33:19+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -839,14 +839,14 @@
   </url>
   
   <url>
-    <loc>/tags/equipment/</loc>
-    <lastmod>2013-06-23T20:01:03+00:00</lastmod>
+    <loc>/categories/equipment/</loc>
+    <lastmod>2013-08-14T07:44:08+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/equipment/</loc>
-    <lastmod>2013-08-14T07:44:08+00:00</lastmod>
+    <loc>/tags/equipment/</loc>
+    <lastmod>2013-06-23T20:01:03+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -881,20 +881,14 @@
   </url>
   
   <url>
-    <loc>/tags/france/</loc>
-    <lastmod>2013-04-19T11:05:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/categories/france/</loc>
     <lastmod>2013-07-26T18:07:49+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/free-camping/</loc>
-    <lastmod>2013-06-23T20:01:03+00:00</lastmod>
+    <loc>/tags/france/</loc>
+    <lastmod>2013-04-19T11:05:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -905,20 +899,26 @@
   </url>
   
   <url>
+    <loc>/tags/free-camping/</loc>
+    <lastmod>2013-06-23T20:01:03+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/gale/</loc>
     <lastmod>2013-07-28T23:41:55+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/garmin/</loc>
-    <lastmod>2013-04-19T11:05:00+00:00</lastmod>
+    <loc>/categories/garmin/</loc>
+    <lastmod>2012-04-28T20:04:24+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/garmin/</loc>
-    <lastmod>2012-04-28T20:04:24+00:00</lastmod>
+    <loc>/tags/garmin/</loc>
+    <lastmod>2013-04-19T11:05:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -971,20 +971,14 @@
   </url>
   
   <url>
-    <loc>/tags/ipad/</loc>
-    <lastmod>2012-04-28T12:31:16+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/categories/ipad/</loc>
     <lastmod>2012-07-08T13:18:04+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/italy/</loc>
-    <lastmod>2013-04-19T11:05:00+00:00</lastmod>
+    <loc>/tags/ipad/</loc>
+    <lastmod>2012-04-28T12:31:16+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -995,20 +989,26 @@
   </url>
   
   <url>
+    <loc>/tags/italy/</loc>
+    <lastmod>2013-04-19T11:05:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/jajce/</loc>
     <lastmod>2013-08-05T16:27:22+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/land-rover/</loc>
-    <lastmod>2013-07-20T16:41:22+00:00</lastmod>
+    <loc>/categories/land-rover/</loc>
+    <lastmod>2013-08-14T07:44:08+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/land-rover/</loc>
-    <lastmod>2013-08-14T07:44:08+00:00</lastmod>
+    <loc>/tags/land-rover/</loc>
+    <lastmod>2013-07-20T16:41:22+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1043,20 +1043,14 @@
   </url>
   
   <url>
-    <loc>/tags/maintenance/</loc>
-    <lastmod>2013-07-24T17:52:10+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/categories/maintenance/</loc>
     <lastmod>2013-07-24T17:52:10+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/maps/</loc>
-    <lastmod>2013-04-27T18:55:07+00:00</lastmod>
+    <loc>/tags/maintenance/</loc>
+    <lastmod>2013-07-24T17:52:10+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1067,20 +1061,26 @@
   </url>
   
   <url>
+    <loc>/tags/maps/</loc>
+    <lastmod>2013-04-27T18:55:07+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/categories/microadventure/</loc>
     <lastmod>2013-06-23T20:01:03+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/military/</loc>
-    <lastmod>2013-04-19T11:05:00+00:00</lastmod>
+    <loc>/categories/military/</loc>
+    <lastmod>2013-05-18T09:25:35+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/military/</loc>
-    <lastmod>2013-05-18T09:25:35+00:00</lastmod>
+    <loc>/tags/military/</loc>
+    <lastmod>2013-04-19T11:05:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1103,13 +1103,13 @@
   </url>
   
   <url>
-    <loc>/tags/mountain-biking/</loc>
+    <loc>/categories/mountain-biking/</loc>
     <lastmod>2013-06-23T20:01:03+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/mountain-biking/</loc>
+    <loc>/tags/mountain-biking/</loc>
     <lastmod>2013-06-23T20:01:03+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1163,25 +1163,25 @@
   </url>
   
   <url>
-    <loc>/tags/overland/</loc>
-    <lastmod>2013-08-08T20:32:44+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/categories/overland/</loc>
     <lastmod>2013-08-15T07:45:07+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/planning/</loc>
-    <lastmod>2013-07-25T20:09:10+00:00</lastmod>
+    <loc>/tags/overland/</loc>
+    <lastmod>2013-08-08T20:32:44+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/categories/planning/</loc>
+    <lastmod>2013-07-25T20:09:10+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/planning/</loc>
     <lastmod>2013-07-25T20:09:10+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1199,14 +1199,14 @@
   </url>
   
   <url>
-    <loc>/tags/preparation/</loc>
-    <lastmod>2013-07-19T20:33:19+00:00</lastmod>
+    <loc>/categories/preparation/</loc>
+    <lastmod>2013-07-25T20:09:10+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/preparation/</loc>
-    <lastmod>2013-07-25T20:09:10+00:00</lastmod>
+    <loc>/tags/preparation/</loc>
+    <lastmod>2013-07-19T20:33:19+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1289,14 +1289,14 @@
   </url>
   
   <url>
-    <loc>/tags/slovenia/</loc>
-    <lastmod>2011-08-06T17:00:32+00:00</lastmod>
+    <loc>/categories/slovenia/</loc>
+    <lastmod>2013-08-02T20:01:37+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/slovenia/</loc>
-    <lastmod>2013-08-02T20:01:37+00:00</lastmod>
+    <loc>/tags/slovenia/</loc>
+    <lastmod>2011-08-06T17:00:32+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1325,13 +1325,13 @@
   </url>
   
   <url>
-    <loc>/tags/south-downs-way/</loc>
+    <loc>/categories/south-downs-way/</loc>
     <lastmod>2013-06-23T20:01:03+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/south-downs-way/</loc>
+    <loc>/tags/south-downs-way/</loc>
     <lastmod>2013-06-23T20:01:03+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1355,14 +1355,14 @@
   </url>
   
   <url>
-    <loc>/tags/storm/</loc>
-    <lastmod>2013-07-30T19:35:24+00:00</lastmod>
+    <loc>/categories/storm/</loc>
+    <lastmod>2013-08-11T17:47:10+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/storm/</loc>
-    <lastmod>2013-08-11T17:47:10+00:00</lastmod>
+    <loc>/tags/storm/</loc>
+    <lastmod>2013-07-30T19:35:24+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1409,13 +1409,13 @@
   </url>
   
   <url>
-    <loc>/tags/sussex/</loc>
+    <loc>/categories/sussex/</loc>
     <lastmod>2013-04-28T19:50:42+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/sussex/</loc>
+    <loc>/tags/sussex/</loc>
     <lastmod>2013-04-28T19:50:42+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1456,14 +1456,14 @@
   </url>
   
   <url>
-    <loc>/tags/travel/</loc>
-    <lastmod>2013-04-16T20:40:07+00:00</lastmod>
+    <loc>/categories/travel/</loc>
+    <lastmod>2013-08-15T07:45:07+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/travel/</loc>
-    <lastmod>2013-08-15T07:45:07+00:00</lastmod>
+    <loc>/tags/travel/</loc>
+    <lastmod>2013-04-16T20:40:07+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1492,14 +1492,14 @@
   </url>
   
   <url>
-    <loc>/tags/walking/</loc>
-    <lastmod>2013-06-23T20:01:03+00:00</lastmod>
+    <loc>/categories/walking/</loc>
+    <lastmod>2013-04-28T19:50:42+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/walking/</loc>
-    <lastmod>2013-04-28T19:50:42+00:00</lastmod>
+    <loc>/tags/walking/</loc>
+    <lastmod>2013-06-23T20:01:03+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1528,14 +1528,14 @@
   </url>
   
   <url>
-    <loc>/tags/wild-camping/</loc>
-    <lastmod>2013-06-23T20:01:03+00:00</lastmod>
+    <loc>/categories/wild-camping/</loc>
+    <lastmod>2013-08-14T07:44:08+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/wild-camping/</loc>
-    <lastmod>2013-08-14T07:44:08+00:00</lastmod>
+    <loc>/tags/wild-camping/</loc>
+    <lastmod>2013-06-23T20:01:03+00:00</lastmod>
     <priority>0</priority>
   </url>
   
