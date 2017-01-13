@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Working Light on African Uhambo</title>
-    <link>/tags/working-light/index.xml</link>
+    <link>/africanuhambo.github.io/tags/working-light/index.xml</link>
     <description>Recent content in Working Light on African Uhambo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="/tags/working-light/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/africanuhambo.github.io/tags/working-light/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Working Light Installation</title>
-      <link>/2012/03/17/working-light-installation/</link>
+      <link>/africanuhambo.github.io/2012/03/17/working-light-installation/</link>
       <pubDate>Sat, 17 Mar 2012 18:38:38 +0000</pubDate>
       
-      <guid>/2012/03/17/working-light-installation/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;/assets/20120317-185047.jpg&#34; class=&#34;&#34; width=&#34;518&#34; height=&#34;389&#34; alt=&#34;You should see a picture of the working light&#34; /&gt;
+      <guid>/africanuhambo.github.io/2012/03/17/working-light-installation/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;africanuhambo.github.io/assets/20120317-185047.jpg&#34; class=&#34;&#34; width=&#34;518&#34; height=&#34;389&#34; alt=&#34;You should see a picture of the working light&#34; /&gt;
 &lt;p style=&#34;text-align:justify;&#34;&gt;I wanted to install a rear working spot light. It&amp;#039;s function will be to provide more light for situations where it was dark and we need to set up camp or do any other task which requires visibility for short periods in the dark.&lt;/p&gt;
 &lt;p&gt;&lt;!--more--&gt;
 &lt;p style=&#34;text-align:justify;&#34;&gt;The working light is not intended to be for lighting the camp in the evening, in my view this would defeat the purpose of camping, be rude to neighbours, be too bright and flatten the aux battery too quickly. After we have cooked we generally chat and drink with only a small candle (tee-light) in a jam jar. This is more than sufficient and provides ample light to locate the beer where ever it was left or camp site after a pee.  Too much light stops you seeing the beautiful night stars.&lt;/p&gt;
@@ -22,9 +22,9 @@
 &lt;p style=&#34;text-align:justify;&#34;&gt;There are many ways to set up the electrics on a light, options include wiring directly to the light with a single fused cable, this is ok if the light has a switch, but I was not happy with having an externally operated switch and no isolation within the vehicle.&lt;/p&gt;
 &lt;p style=&#34;text-align:justify;&#34;&gt;The second option is as per above but mount a switch in the cab. This is not very tidy in terms of electrics as you are switching a slightly high current and this has many side effects, but is manageable.&lt;/p&gt;
 &lt;p style=&#34;text-align:justify;&#34;&gt;The prefered option is to switch the light via a relay or contactor. In this case as the current is only on the order of 4.6 Amps (I = P / V = 55 / 12) I would use a relay. Most vehicle relays available off the shelf would more than cover this. The basic layout for the wiring discussed here is shown below (Rev A). This was my original planned method.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/assets/1R0oH_PYryXz0Twq_3zk54emtKJAI_tzpiwC5c9Npf6k.png&amp;amp;w=500&amp;amp;h=310&#34; class=&#34;&#34; width=&#34;500&#34; height=&#34;310&#34; alt=&#34;Rev A Schematic&#34; /&gt;
+&lt;p&gt;&lt;img src=&#34;africanuhambo.github.io/assets/1R0oH_PYryXz0Twq_3zk54emtKJAI_tzpiwC5c9Npf6k.png&amp;amp;w=500&amp;amp;h=310&#34; class=&#34;&#34; width=&#34;500&#34; height=&#34;310&#34; alt=&#34;Rev A Schematic&#34; /&gt;
 &lt;p style=&#34;text-align:justify;&#34;&gt;What I actually ended up doing was as shown in Rev B below.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/assets/1b_QZ1RrXp2L-ans6zIWcpUnHhEDEqnesQiHqo9AGkmI.png&amp;amp;w=499&amp;amp;h=335&#34; class=&#34;&#34; width=&#34;499&#34; height=&#34;335&#34; alt=&#34;The rev B schematic&#34; /&gt;
+&lt;p&gt;&lt;img src=&#34;africanuhambo.github.io/assets/1b_QZ1RrXp2L-ans6zIWcpUnHhEDEqnesQiHqo9AGkmI.png&amp;amp;w=499&amp;amp;h=335&#34; class=&#34;&#34; width=&#34;499&#34; height=&#34;335&#34; alt=&#34;The rev B schematic&#34; /&gt;
 &lt;p style=&#34;text-align:justify;&#34;&gt;The reason I changed the diagram or method of wiring this was because.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;I wanted indication in the cab the light was on.&lt;/li&gt;
