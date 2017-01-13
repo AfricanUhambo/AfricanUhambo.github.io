@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ipad on African Uhambo</title>
-    <link>https://africanuhambo.github.io/categories/ipad/index.xml</link>
+    <link>/categories/ipad/index.xml</link>
     <description>Recent content in Ipad on African Uhambo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://africanuhambo.github.io/categories/ipad/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/categories/ipad/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>iMovie App for the iPad - Trailer for last years holiday.</title>
-      <link>https://africanuhambo.github.io/2012/07/08/imovie-app-for-the-ipad-trailer-for-last-years-holiday/</link>
+      <link>/2012/07/08/imovie-app-for-the-ipad-trailer-for-last-years-holiday/</link>
       <pubDate>Sun, 08 Jul 2012 13:18:04 +0000</pubDate>
       
-      <guid>https://africanuhambo.github.io/2012/07/08/imovie-app-for-the-ipad-trailer-for-last-years-holiday/</guid>
+      <guid>/2012/07/08/imovie-app-for-the-ipad-trailer-for-last-years-holiday/</guid>
       <description>&lt;p&gt;If you read our blog regularly, you may have noticed that I am new to video editing stuff and that I have recently discovered the fun of the iMovie app for the iPad. Consquentially there are a few video clips starting to appear. We are armed with extra SD cards to allow more of this on the next trip.&lt;/p&gt;
 &lt;p&gt;There are two choices in iMovie if you want to produce a video clip, either a new trailer or a new project. I initially glossed over the trailer option. Choosing instead to try a project first, the initial project was a short clip about a track in &lt;a href=&#34;http://africanuhambo.co.uk/2012/07/01/serbia-unexpected-off-road/&#34; target=&#34;_self&#34; title=&#34;&#34;&gt;Serbia&lt;/a&gt;. I followed this with a couple of short &#34;photo&#34; films for &lt;a href=&#34;http://www.youtube.com/watch?v=eY61icqtEMQ&amp;amp;sns=em&#34; target=&#34;_blank&#34; title=&#34;&#34;&gt;Bosnia and Herzegovina&lt;/a&gt;, then another about Montenegro.&lt;/p&gt;
 &lt;p&gt;&lt;!--more--&gt;
@@ -24,7 +24,7 @@
 &lt;p&gt;&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/y8SjVon9LVA&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;p&gt;The diagram below shows the process!&lt;/p&gt;
-&lt;div class=&#34;separator&#34; style=&#34;clear:both;text-align:center;&#34;&gt;&lt;img src=&#34;https://africanuhambo.github.io/assets/wpid-photo-8-jul-2012-1412.jpg?w=500&#34; class=&#34;aligncenter&#34; alt=&#34;iMovie to YouTube via Blogsy to Wordpress&#34; width=&#34;500&#34; height=&#34;375&#34; /&gt;&lt;/div&gt;
+&lt;div class=&#34;separator&#34; style=&#34;clear:both;text-align:center;&#34;&gt;&lt;img src=&#34;/assets/wpid-photo-8-jul-2012-1412.jpg?w=500&#34; class=&#34;aligncenter&#34; alt=&#34;iMovie to YouTube via Blogsy to Wordpress&#34; width=&#34;500&#34; height=&#34;375&#34; /&gt;&lt;/div&gt;
 </description>
     </item>
     
