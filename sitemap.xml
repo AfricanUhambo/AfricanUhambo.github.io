@@ -630,14 +630,14 @@
   </url>
   
   <url>
-    <loc>https://africanuhambo.github.io/tags/albania/</loc>
-    <lastmod>2013-08-12T18:03:34+00:00</lastmod>
+    <loc>https://africanuhambo.github.io/categories/albania/</loc>
+    <lastmod>2013-08-15T07:45:07+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://africanuhambo.github.io/categories/albania/</loc>
-    <lastmod>2013-08-15T07:45:07+00:00</lastmod>
+    <loc>https://africanuhambo.github.io/tags/albania/</loc>
+    <lastmod>2013-08-12T18:03:34+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -654,13 +654,13 @@
   </url>
   
   <url>
-    <loc>https://africanuhambo.github.io/tags/austria/</loc>
+    <loc>https://africanuhambo.github.io/categories/austria/</loc>
     <lastmod>2013-07-31T19:35:35+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://africanuhambo.github.io/categories/austria/</loc>
+    <loc>https://africanuhambo.github.io/tags/austria/</loc>
     <lastmod>2013-07-31T19:35:35+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -714,14 +714,14 @@
   </url>
   
   <url>
-    <loc>https://africanuhambo.github.io/tags/bosnia-and-herzegovina/</loc>
-    <lastmod>2013-08-06T19:18:22+00:00</lastmod>
+    <loc>https://africanuhambo.github.io/categories/bosnia-and-herzegovina/</loc>
+    <lastmod>2013-08-08T20:32:44+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://africanuhambo.github.io/categories/bosnia-and-herzegovina/</loc>
-    <lastmod>2013-08-08T20:32:44+00:00</lastmod>
+    <loc>https://africanuhambo.github.io/tags/bosnia-and-herzegovina/</loc>
+    <lastmod>2013-08-06T19:18:22+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -785,13 +785,13 @@
   </url>
   
   <url>
-    <loc>https://africanuhambo.github.io/tags/croatia/</loc>
+    <loc>https://africanuhambo.github.io/categories/croatia/</loc>
     <lastmod>2013-08-04T19:06:38+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://africanuhambo.github.io/categories/croatia/</loc>
+    <loc>https://africanuhambo.github.io/tags/croatia/</loc>
     <lastmod>2013-08-04T19:06:38+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -803,26 +803,26 @@
   </url>
   
   <url>
-    <loc>https://africanuhambo.github.io/tags/czech-republic/</loc>
-    <lastmod>2013-02-25T16:35:24+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://africanuhambo.github.io/categories/czech-republic/</loc>
     <lastmod>2013-02-25T16:35:24+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://africanuhambo.github.io/tags/defender/</loc>
-    <lastmod>2013-07-19T20:33:19+00:00</lastmod>
+    <loc>https://africanuhambo.github.io/tags/czech-republic/</loc>
+    <lastmod>2013-02-25T16:35:24+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://africanuhambo.github.io/categories/defender/</loc>
     <lastmod>2013-08-15T07:45:07+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://africanuhambo.github.io/tags/defender/</loc>
+    <lastmod>2013-07-19T20:33:19+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -839,14 +839,14 @@
   </url>
   
   <url>
-    <loc>https://africanuhambo.github.io/tags/equipment/</loc>
-    <lastmod>2013-06-23T20:01:03+00:00</lastmod>
+    <loc>https://africanuhambo.github.io/categories/equipment/</loc>
+    <lastmod>2013-08-14T07:44:08+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://africanuhambo.github.io/categories/equipment/</loc>
-    <lastmod>2013-08-14T07:44:08+00:00</lastmod>
+    <loc>https://africanuhambo.github.io/tags/equipment/</loc>
+    <lastmod>2013-06-23T20:01:03+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -881,20 +881,14 @@
   </url>
   
   <url>
-    <loc>https://africanuhambo.github.io/tags/france/</loc>
-    <lastmod>2013-04-19T11:05:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://africanuhambo.github.io/categories/france/</loc>
     <lastmod>2013-07-26T18:07:49+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://africanuhambo.github.io/tags/free-camping/</loc>
-    <lastmod>2013-06-23T20:01:03+00:00</lastmod>
+    <loc>https://africanuhambo.github.io/tags/france/</loc>
+    <lastmod>2013-04-19T11:05:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -905,20 +899,26 @@
   </url>
   
   <url>
+    <loc>https://africanuhambo.github.io/tags/free-camping/</loc>
+    <lastmod>2013-06-23T20:01:03+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://africanuhambo.github.io/tags/gale/</loc>
     <lastmod>2013-07-28T23:41:55+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://africanuhambo.github.io/tags/garmin/</loc>
-    <lastmod>2013-04-19T11:05:00+00:00</lastmod>
+    <loc>https://africanuhambo.github.io/categories/garmin/</loc>
+    <lastmod>2012-04-28T20:04:24+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://africanuhambo.github.io/categories/garmin/</loc>
-    <lastmod>2012-04-28T20:04:24+00:00</lastmod>
+    <loc>https://africanuhambo.github.io/tags/garmin/</loc>
+    <lastmod>2013-04-19T11:05:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -971,20 +971,14 @@
   </url>
   
   <url>
-    <loc>https://africanuhambo.github.io/tags/ipad/</loc>
-    <lastmod>2012-04-28T12:31:16+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://africanuhambo.github.io/categories/ipad/</loc>
     <lastmod>2012-07-08T13:18:04+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://africanuhambo.github.io/tags/italy/</loc>
-    <lastmod>2013-04-19T11:05:00+00:00</lastmod>
+    <loc>https://africanuhambo.github.io/tags/ipad/</loc>
+    <lastmod>2012-04-28T12:31:16+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -995,20 +989,26 @@
   </url>
   
   <url>
+    <loc>https://africanuhambo.github.io/tags/italy/</loc>
+    <lastmod>2013-04-19T11:05:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://africanuhambo.github.io/tags/jajce/</loc>
     <lastmod>2013-08-05T16:27:22+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://africanuhambo.github.io/tags/land-rover/</loc>
-    <lastmod>2013-07-20T16:41:22+00:00</lastmod>
+    <loc>https://africanuhambo.github.io/categories/land-rover/</loc>
+    <lastmod>2013-08-14T07:44:08+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://africanuhambo.github.io/categories/land-rover/</loc>
-    <lastmod>2013-08-14T07:44:08+00:00</lastmod>
+    <loc>https://africanuhambo.github.io/tags/land-rover/</loc>
+    <lastmod>2013-07-20T16:41:22+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1043,20 +1043,14 @@
   </url>
   
   <url>
-    <loc>https://africanuhambo.github.io/tags/maintenance/</loc>
-    <lastmod>2013-07-24T17:52:10+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://africanuhambo.github.io/categories/maintenance/</loc>
     <lastmod>2013-07-24T17:52:10+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://africanuhambo.github.io/tags/maps/</loc>
-    <lastmod>2013-04-27T18:55:07+00:00</lastmod>
+    <loc>https://africanuhambo.github.io/tags/maintenance/</loc>
+    <lastmod>2013-07-24T17:52:10+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1067,20 +1061,26 @@
   </url>
   
   <url>
+    <loc>https://africanuhambo.github.io/tags/maps/</loc>
+    <lastmod>2013-04-27T18:55:07+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://africanuhambo.github.io/categories/microadventure/</loc>
     <lastmod>2013-06-23T20:01:03+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://africanuhambo.github.io/tags/military/</loc>
-    <lastmod>2013-04-19T11:05:00+00:00</lastmod>
+    <loc>https://africanuhambo.github.io/categories/military/</loc>
+    <lastmod>2013-05-18T09:25:35+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://africanuhambo.github.io/categories/military/</loc>
-    <lastmod>2013-05-18T09:25:35+00:00</lastmod>
+    <loc>https://africanuhambo.github.io/tags/military/</loc>
+    <lastmod>2013-04-19T11:05:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1103,13 +1103,13 @@
   </url>
   
   <url>
-    <loc>https://africanuhambo.github.io/tags/mountain-biking/</loc>
+    <loc>https://africanuhambo.github.io/categories/mountain-biking/</loc>
     <lastmod>2013-06-23T20:01:03+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://africanuhambo.github.io/categories/mountain-biking/</loc>
+    <loc>https://africanuhambo.github.io/tags/mountain-biking/</loc>
     <lastmod>2013-06-23T20:01:03+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1163,25 +1163,25 @@
   </url>
   
   <url>
-    <loc>https://africanuhambo.github.io/tags/overland/</loc>
-    <lastmod>2013-08-08T20:32:44+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://africanuhambo.github.io/categories/overland/</loc>
     <lastmod>2013-08-15T07:45:07+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://africanuhambo.github.io/tags/planning/</loc>
-    <lastmod>2013-07-25T20:09:10+00:00</lastmod>
+    <loc>https://africanuhambo.github.io/tags/overland/</loc>
+    <lastmod>2013-08-08T20:32:44+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://africanuhambo.github.io/categories/planning/</loc>
+    <lastmod>2013-07-25T20:09:10+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://africanuhambo.github.io/tags/planning/</loc>
     <lastmod>2013-07-25T20:09:10+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1199,14 +1199,14 @@
   </url>
   
   <url>
-    <loc>https://africanuhambo.github.io/tags/preparation/</loc>
-    <lastmod>2013-07-19T20:33:19+00:00</lastmod>
+    <loc>https://africanuhambo.github.io/categories/preparation/</loc>
+    <lastmod>2013-07-25T20:09:10+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://africanuhambo.github.io/categories/preparation/</loc>
-    <lastmod>2013-07-25T20:09:10+00:00</lastmod>
+    <loc>https://africanuhambo.github.io/tags/preparation/</loc>
+    <lastmod>2013-07-19T20:33:19+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1289,14 +1289,14 @@
   </url>
   
   <url>
-    <loc>https://africanuhambo.github.io/tags/slovenia/</loc>
-    <lastmod>2011-08-06T17:00:32+00:00</lastmod>
+    <loc>https://africanuhambo.github.io/categories/slovenia/</loc>
+    <lastmod>2013-08-02T20:01:37+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://africanuhambo.github.io/categories/slovenia/</loc>
-    <lastmod>2013-08-02T20:01:37+00:00</lastmod>
+    <loc>https://africanuhambo.github.io/tags/slovenia/</loc>
+    <lastmod>2011-08-06T17:00:32+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1325,13 +1325,13 @@
   </url>
   
   <url>
-    <loc>https://africanuhambo.github.io/tags/south-downs-way/</loc>
+    <loc>https://africanuhambo.github.io/categories/south-downs-way/</loc>
     <lastmod>2013-06-23T20:01:03+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://africanuhambo.github.io/categories/south-downs-way/</loc>
+    <loc>https://africanuhambo.github.io/tags/south-downs-way/</loc>
     <lastmod>2013-06-23T20:01:03+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1355,14 +1355,14 @@
   </url>
   
   <url>
-    <loc>https://africanuhambo.github.io/tags/storm/</loc>
-    <lastmod>2013-07-30T19:35:24+00:00</lastmod>
+    <loc>https://africanuhambo.github.io/categories/storm/</loc>
+    <lastmod>2013-08-11T17:47:10+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://africanuhambo.github.io/categories/storm/</loc>
-    <lastmod>2013-08-11T17:47:10+00:00</lastmod>
+    <loc>https://africanuhambo.github.io/tags/storm/</loc>
+    <lastmod>2013-07-30T19:35:24+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1409,13 +1409,13 @@
   </url>
   
   <url>
-    <loc>https://africanuhambo.github.io/tags/sussex/</loc>
+    <loc>https://africanuhambo.github.io/categories/sussex/</loc>
     <lastmod>2013-04-28T19:50:42+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://africanuhambo.github.io/categories/sussex/</loc>
+    <loc>https://africanuhambo.github.io/tags/sussex/</loc>
     <lastmod>2013-04-28T19:50:42+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1456,14 +1456,14 @@
   </url>
   
   <url>
-    <loc>https://africanuhambo.github.io/tags/travel/</loc>
-    <lastmod>2013-04-16T20:40:07+00:00</lastmod>
+    <loc>https://africanuhambo.github.io/categories/travel/</loc>
+    <lastmod>2013-08-15T07:45:07+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://africanuhambo.github.io/categories/travel/</loc>
-    <lastmod>2013-08-15T07:45:07+00:00</lastmod>
+    <loc>https://africanuhambo.github.io/tags/travel/</loc>
+    <lastmod>2013-04-16T20:40:07+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1492,14 +1492,14 @@
   </url>
   
   <url>
-    <loc>https://africanuhambo.github.io/tags/walking/</loc>
-    <lastmod>2013-06-23T20:01:03+00:00</lastmod>
+    <loc>https://africanuhambo.github.io/categories/walking/</loc>
+    <lastmod>2013-04-28T19:50:42+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://africanuhambo.github.io/categories/walking/</loc>
-    <lastmod>2013-04-28T19:50:42+00:00</lastmod>
+    <loc>https://africanuhambo.github.io/tags/walking/</loc>
+    <lastmod>2013-06-23T20:01:03+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1528,14 +1528,14 @@
   </url>
   
   <url>
-    <loc>https://africanuhambo.github.io/tags/wild-camping/</loc>
-    <lastmod>2013-06-23T20:01:03+00:00</lastmod>
+    <loc>https://africanuhambo.github.io/categories/wild-camping/</loc>
+    <lastmod>2013-08-14T07:44:08+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://africanuhambo.github.io/categories/wild-camping/</loc>
-    <lastmod>2013-08-14T07:44:08+00:00</lastmod>
+    <loc>https://africanuhambo.github.io/tags/wild-camping/</loc>
+    <lastmod>2013-06-23T20:01:03+00:00</lastmod>
     <priority>0</priority>
   </url>
   
