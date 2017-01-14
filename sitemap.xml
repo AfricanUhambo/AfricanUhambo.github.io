@@ -630,14 +630,14 @@
   </url>
   
   <url>
-    <loc>https://africanuhambo.co.uk/tags/albania/</loc>
-    <lastmod>2013-08-12T18:03:34+00:00</lastmod>
+    <loc>https://africanuhambo.co.uk/categories/albania/</loc>
+    <lastmod>2013-08-15T07:45:07+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://africanuhambo.co.uk/categories/albania/</loc>
-    <lastmod>2013-08-15T07:45:07+00:00</lastmod>
+    <loc>https://africanuhambo.co.uk/tags/albania/</loc>
+    <lastmod>2013-08-12T18:03:34+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -654,13 +654,13 @@
   </url>
   
   <url>
-    <loc>https://africanuhambo.co.uk/tags/austria/</loc>
+    <loc>https://africanuhambo.co.uk/categories/austria/</loc>
     <lastmod>2013-07-31T19:35:35+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://africanuhambo.co.uk/categories/austria/</loc>
+    <loc>https://africanuhambo.co.uk/tags/austria/</loc>
     <lastmod>2013-07-31T19:35:35+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -714,14 +714,14 @@
   </url>
   
   <url>
-    <loc>https://africanuhambo.co.uk/tags/bosnia-and-herzegovina/</loc>
-    <lastmod>2013-08-06T19:18:22+00:00</lastmod>
+    <loc>https://africanuhambo.co.uk/categories/bosnia-and-herzegovina/</loc>
+    <lastmod>2013-08-08T20:32:44+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://africanuhambo.co.uk/categories/bosnia-and-herzegovina/</loc>
-    <lastmod>2013-08-08T20:32:44+00:00</lastmod>
+    <loc>https://africanuhambo.co.uk/tags/bosnia-and-herzegovina/</loc>
+    <lastmod>2013-08-06T19:18:22+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -785,13 +785,13 @@
   </url>
   
   <url>
-    <loc>https://africanuhambo.co.uk/tags/croatia/</loc>
+    <loc>https://africanuhambo.co.uk/categories/croatia/</loc>
     <lastmod>2013-08-04T19:06:38+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://africanuhambo.co.uk/categories/croatia/</loc>
+    <loc>https://africanuhambo.co.uk/tags/croatia/</loc>
     <lastmod>2013-08-04T19:06:38+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -803,26 +803,26 @@
   </url>
   
   <url>
-    <loc>https://africanuhambo.co.uk/tags/czech-republic/</loc>
-    <lastmod>2013-02-25T16:35:24+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://africanuhambo.co.uk/categories/czech-republic/</loc>
     <lastmod>2013-02-25T16:35:24+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://africanuhambo.co.uk/tags/defender/</loc>
-    <lastmod>2013-07-19T20:33:19+00:00</lastmod>
+    <loc>https://africanuhambo.co.uk/tags/czech-republic/</loc>
+    <lastmod>2013-02-25T16:35:24+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://africanuhambo.co.uk/categories/defender/</loc>
     <lastmod>2013-08-15T07:45:07+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://africanuhambo.co.uk/tags/defender/</loc>
+    <lastmod>2013-07-19T20:33:19+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -839,14 +839,14 @@
   </url>
   
   <url>
-    <loc>https://africanuhambo.co.uk/tags/equipment/</loc>
-    <lastmod>2013-06-23T20:01:03+00:00</lastmod>
+    <loc>https://africanuhambo.co.uk/categories/equipment/</loc>
+    <lastmod>2013-08-14T07:44:08+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://africanuhambo.co.uk/categories/equipment/</loc>
-    <lastmod>2013-08-14T07:44:08+00:00</lastmod>
+    <loc>https://africanuhambo.co.uk/tags/equipment/</loc>
+    <lastmod>2013-06-23T20:01:03+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -881,20 +881,14 @@
   </url>
   
   <url>
-    <loc>https://africanuhambo.co.uk/tags/france/</loc>
-    <lastmod>2013-04-19T11:05:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://africanuhambo.co.uk/categories/france/</loc>
     <lastmod>2013-07-26T18:07:49+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://africanuhambo.co.uk/tags/free-camping/</loc>
-    <lastmod>2013-06-23T20:01:03+00:00</lastmod>
+    <loc>https://africanuhambo.co.uk/tags/france/</loc>
+    <lastmod>2013-04-19T11:05:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -905,20 +899,26 @@
   </url>
   
   <url>
+    <loc>https://africanuhambo.co.uk/tags/free-camping/</loc>
+    <lastmod>2013-06-23T20:01:03+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://africanuhambo.co.uk/tags/gale/</loc>
     <lastmod>2013-07-28T23:41:55+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://africanuhambo.co.uk/tags/garmin/</loc>
-    <lastmod>2013-04-19T11:05:00+00:00</lastmod>
+    <loc>https://africanuhambo.co.uk/categories/garmin/</loc>
+    <lastmod>2012-04-28T20:04:24+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://africanuhambo.co.uk/categories/garmin/</loc>
-    <lastmod>2012-04-28T20:04:24+00:00</lastmod>
+    <loc>https://africanuhambo.co.uk/tags/garmin/</loc>
+    <lastmod>2013-04-19T11:05:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -971,20 +971,14 @@
   </url>
   
   <url>
-    <loc>https://africanuhambo.co.uk/tags/ipad/</loc>
-    <lastmod>2012-04-28T12:31:16+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://africanuhambo.co.uk/categories/ipad/</loc>
     <lastmod>2012-07-08T13:18:04+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://africanuhambo.co.uk/tags/italy/</loc>
-    <lastmod>2013-04-19T11:05:00+00:00</lastmod>
+    <loc>https://africanuhambo.co.uk/tags/ipad/</loc>
+    <lastmod>2012-04-28T12:31:16+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -995,20 +989,26 @@
   </url>
   
   <url>
+    <loc>https://africanuhambo.co.uk/tags/italy/</loc>
+    <lastmod>2013-04-19T11:05:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://africanuhambo.co.uk/tags/jajce/</loc>
     <lastmod>2013-08-05T16:27:22+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://africanuhambo.co.uk/tags/land-rover/</loc>
-    <lastmod>2013-07-20T16:41:22+00:00</lastmod>
+    <loc>https://africanuhambo.co.uk/categories/land-rover/</loc>
+    <lastmod>2013-08-14T07:44:08+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://africanuhambo.co.uk/categories/land-rover/</loc>
-    <lastmod>2013-08-14T07:44:08+00:00</lastmod>
+    <loc>https://africanuhambo.co.uk/tags/land-rover/</loc>
+    <lastmod>2013-07-20T16:41:22+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1043,20 +1043,14 @@
   </url>
   
   <url>
-    <loc>https://africanuhambo.co.uk/tags/maintenance/</loc>
-    <lastmod>2013-07-24T17:52:10+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://africanuhambo.co.uk/categories/maintenance/</loc>
     <lastmod>2013-07-24T17:52:10+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://africanuhambo.co.uk/tags/maps/</loc>
-    <lastmod>2013-04-27T18:55:07+00:00</lastmod>
+    <loc>https://africanuhambo.co.uk/tags/maintenance/</loc>
+    <lastmod>2013-07-24T17:52:10+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1067,20 +1061,26 @@
   </url>
   
   <url>
+    <loc>https://africanuhambo.co.uk/tags/maps/</loc>
+    <lastmod>2013-04-27T18:55:07+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://africanuhambo.co.uk/categories/microadventure/</loc>
     <lastmod>2013-06-23T20:01:03+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://africanuhambo.co.uk/tags/military/</loc>
-    <lastmod>2013-04-19T11:05:00+00:00</lastmod>
+    <loc>https://africanuhambo.co.uk/categories/military/</loc>
+    <lastmod>2013-05-18T09:25:35+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://africanuhambo.co.uk/categories/military/</loc>
-    <lastmod>2013-05-18T09:25:35+00:00</lastmod>
+    <loc>https://africanuhambo.co.uk/tags/military/</loc>
+    <lastmod>2013-04-19T11:05:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1103,13 +1103,13 @@
   </url>
   
   <url>
-    <loc>https://africanuhambo.co.uk/tags/mountain-biking/</loc>
+    <loc>https://africanuhambo.co.uk/categories/mountain-biking/</loc>
     <lastmod>2013-06-23T20:01:03+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://africanuhambo.co.uk/categories/mountain-biking/</loc>
+    <loc>https://africanuhambo.co.uk/tags/mountain-biking/</loc>
     <lastmod>2013-06-23T20:01:03+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1163,25 +1163,25 @@
   </url>
   
   <url>
-    <loc>https://africanuhambo.co.uk/tags/overland/</loc>
-    <lastmod>2013-08-08T20:32:44+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://africanuhambo.co.uk/categories/overland/</loc>
     <lastmod>2013-08-15T07:45:07+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://africanuhambo.co.uk/tags/planning/</loc>
-    <lastmod>2013-07-25T20:09:10+00:00</lastmod>
+    <loc>https://africanuhambo.co.uk/tags/overland/</loc>
+    <lastmod>2013-08-08T20:32:44+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://africanuhambo.co.uk/categories/planning/</loc>
+    <lastmod>2013-07-25T20:09:10+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://africanuhambo.co.uk/tags/planning/</loc>
     <lastmod>2013-07-25T20:09:10+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1199,14 +1199,14 @@
   </url>
   
   <url>
-    <loc>https://africanuhambo.co.uk/tags/preparation/</loc>
-    <lastmod>2013-07-19T20:33:19+00:00</lastmod>
+    <loc>https://africanuhambo.co.uk/categories/preparation/</loc>
+    <lastmod>2013-07-25T20:09:10+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://africanuhambo.co.uk/categories/preparation/</loc>
-    <lastmod>2013-07-25T20:09:10+00:00</lastmod>
+    <loc>https://africanuhambo.co.uk/tags/preparation/</loc>
+    <lastmod>2013-07-19T20:33:19+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1289,14 +1289,14 @@
   </url>
   
   <url>
-    <loc>https://africanuhambo.co.uk/tags/slovenia/</loc>
-    <lastmod>2011-08-06T17:00:32+00:00</lastmod>
+    <loc>https://africanuhambo.co.uk/categories/slovenia/</loc>
+    <lastmod>2013-08-02T20:01:37+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://africanuhambo.co.uk/categories/slovenia/</loc>
-    <lastmod>2013-08-02T20:01:37+00:00</lastmod>
+    <loc>https://africanuhambo.co.uk/tags/slovenia/</loc>
+    <lastmod>2011-08-06T17:00:32+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1325,13 +1325,13 @@
   </url>
   
   <url>
-    <loc>https://africanuhambo.co.uk/tags/south-downs-way/</loc>
+    <loc>https://africanuhambo.co.uk/categories/south-downs-way/</loc>
     <lastmod>2013-06-23T20:01:03+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://africanuhambo.co.uk/categories/south-downs-way/</loc>
+    <loc>https://africanuhambo.co.uk/tags/south-downs-way/</loc>
     <lastmod>2013-06-23T20:01:03+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1355,14 +1355,14 @@
   </url>
   
   <url>
-    <loc>https://africanuhambo.co.uk/tags/storm/</loc>
-    <lastmod>2013-07-30T19:35:24+00:00</lastmod>
+    <loc>https://africanuhambo.co.uk/categories/storm/</loc>
+    <lastmod>2013-08-11T17:47:10+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://africanuhambo.co.uk/categories/storm/</loc>
-    <lastmod>2013-08-11T17:47:10+00:00</lastmod>
+    <loc>https://africanuhambo.co.uk/tags/storm/</loc>
+    <lastmod>2013-07-30T19:35:24+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1409,13 +1409,13 @@
   </url>
   
   <url>
-    <loc>https://africanuhambo.co.uk/tags/sussex/</loc>
+    <loc>https://africanuhambo.co.uk/categories/sussex/</loc>
     <lastmod>2013-04-28T19:50:42+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://africanuhambo.co.uk/categories/sussex/</loc>
+    <loc>https://africanuhambo.co.uk/tags/sussex/</loc>
     <lastmod>2013-04-28T19:50:42+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1456,14 +1456,14 @@
   </url>
   
   <url>
-    <loc>https://africanuhambo.co.uk/tags/travel/</loc>
-    <lastmod>2013-04-16T20:40:07+00:00</lastmod>
+    <loc>https://africanuhambo.co.uk/categories/travel/</loc>
+    <lastmod>2013-08-15T07:45:07+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://africanuhambo.co.uk/categories/travel/</loc>
-    <lastmod>2013-08-15T07:45:07+00:00</lastmod>
+    <loc>https://africanuhambo.co.uk/tags/travel/</loc>
+    <lastmod>2013-04-16T20:40:07+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1492,14 +1492,14 @@
   </url>
   
   <url>
-    <loc>https://africanuhambo.co.uk/tags/walking/</loc>
-    <lastmod>2013-06-23T20:01:03+00:00</lastmod>
+    <loc>https://africanuhambo.co.uk/categories/walking/</loc>
+    <lastmod>2013-04-28T19:50:42+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://africanuhambo.co.uk/categories/walking/</loc>
-    <lastmod>2013-04-28T19:50:42+00:00</lastmod>
+    <loc>https://africanuhambo.co.uk/tags/walking/</loc>
+    <lastmod>2013-06-23T20:01:03+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1528,14 +1528,14 @@
   </url>
   
   <url>
-    <loc>https://africanuhambo.co.uk/tags/wild-camping/</loc>
-    <lastmod>2013-06-23T20:01:03+00:00</lastmod>
+    <loc>https://africanuhambo.co.uk/categories/wild-camping/</loc>
+    <lastmod>2013-08-14T07:44:08+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://africanuhambo.co.uk/categories/wild-camping/</loc>
-    <lastmod>2013-08-14T07:44:08+00:00</lastmod>
+    <loc>https://africanuhambo.co.uk/tags/wild-camping/</loc>
+    <lastmod>2013-06-23T20:01:03+00:00</lastmod>
     <priority>0</priority>
   </url>
   
