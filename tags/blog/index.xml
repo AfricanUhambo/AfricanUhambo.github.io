@@ -6,7 +6,26 @@
     <description>Recent content in Blog on African Uhambo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>Code released under the MIT license.</copyright>
     <atom:link href="https://africanuhambo.co.uk/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Blog Moved Home Again</title>
+      <link>https://africanuhambo.co.uk/post/moved-again/</link>
+      <pubDate>Sat, 14 Jan 2017 21:54:35 +1100</pubDate>
+      
+      <guid>https://africanuhambo.co.uk/post/moved-again/</guid>
+      <description>&lt;p&gt;Having previously moved from Google pages to Wordpress.com. The Blog (this site) has now moved from Wordpress.com to a statically served site hosted on Github.com.&lt;/p&gt;
+
+&lt;p&gt;The majority of the posts are now moved and most content is running correctly. Over the next few weeks I&amp;rsquo;ll tweak and fine tune the content and appearance. Previous links should still work, I hope!&lt;/p&gt;
+
+&lt;p&gt;I thought I would deploy at this stage despite needing to finish a few bits, to ensure continuity. As an old boss said:&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Don&amp;rsquo;t let perfect be the enemy of good&amp;hellip;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;If you are interested in the technical details of moving from the Wordpress.com platform to a static site, it will be published in the coming days on &lt;a href=&#34;http://danward79.co.uk&#34;&gt;TechNotes&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>We&#39;re taking Blogsy on a road trip.</title>
