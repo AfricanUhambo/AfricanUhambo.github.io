@@ -7,6 +7,11 @@
   </url>
   
   <url>
+    <loc>https://africanuhambo.co.uk/about/</loc>
+    <lastmod>2014-07-11T10:54:24+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://africanuhambo.co.uk/2014/01/03/the-land-rover-has-gone-we-will-be-off-soon-after/</loc>
     <lastmod>2014-01-03T15:49:12+00:00</lastmod>
   </url>
@@ -437,6 +442,11 @@
   </url>
   
   <url>
+    <loc>https://africanuhambo.co.uk/tusky/</loc>
+    <lastmod>2012-03-17T09:15:07+11:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://africanuhambo.co.uk/2011/08/27/day-27-thursday-25-august-2011-villey-le-sec-france-hove-england/</loc>
     <lastmod>2011-08-27T17:52:32+00:00</lastmod>
   </url>
@@ -619,6 +629,12 @@
   <url>
     <loc>https://africanuhambo.co.uk/tags/300tdi/</loc>
     <lastmod>2012-08-06T19:46:53+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://africanuhambo.co.uk/tags/about/</loc>
+    <lastmod>2014-07-11T10:54:24+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1487,6 +1503,12 @@
   <url>
     <loc>https://africanuhambo.co.uk/tags/unesco-world-heritage/</loc>
     <lastmod>2013-02-25T16:35:24+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://africanuhambo.co.uk/tags/vehicle/</loc>
+    <lastmod>2012-03-17T09:15:07+11:00</lastmod>
     <priority>0</priority>
   </url>
   
